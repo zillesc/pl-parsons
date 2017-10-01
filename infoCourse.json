@@ -1,0 +1,13 @@
+{
+    "uuid": "fe472cd2-4759-4c0d-9b1a-7383ca9b2817",
+    "name": "Parsons 101",
+    "title": "Parsons Problems",
+    "assessmentSets": [
+    ],
+    "topics": [
+        {"name": "Parsons", "color": "blue3", "description": "Parson's coding problems."}
+    ],
+    "tags": [
+        {"name": "parsons", "color": "gray1", "description": "Is a parson's problem."}
+    ]
+}

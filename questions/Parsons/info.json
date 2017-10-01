@@ -1,0 +1,18 @@
+{
+    "uuid": "b5021752-f2da-4360-8343-99e487fcc9d5",
+    "title": "Example Parson's Problem",
+    "topic": "Parsons",
+    "tags": ["parsons"],
+    "clientFiles": ["client.js", "question.html", "answer.html", "submission.html"],
+    "options": { "max_distractors": 1,
+                 "max_feedback_count": 2,
+                 "check_indentation": true,
+                 "code": ["def is_true(boolean_value):",
+                          "  if boolean_value:",
+                          "    return True",
+                          "  return False",
+                          "  return true #distractor"
+                         ]
+    },
+    "type": "Calculation"
+}
